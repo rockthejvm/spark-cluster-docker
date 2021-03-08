@@ -1,5 +1,7 @@
 # Spark Cluster Docker
 
+Powered by [Rock the JVM](https://rockthejvm.com)
+
 This repository contains the Docker files to create a Spark cluster with a JupyterLab interface. This cluster is used as a teaching tool for the Rock the JVM online courses and live training sessions on Apache Spark:
 
 - [Spark Essentials](https://rockthejvm.com/p/spark-essentials)
