@@ -35,10 +35,10 @@ That's it!
 
 ## Important Links
 
-- The main JupyterLab interface: https://localhost:8888
-- The Spark cluster UI (master node): https://localhost:8080
-- The Spark cluster UI (worker node): https://localhost:8081 and https://localhost:8082
-- The Spark application web UI (active during a Spark Shell): https://localhost:4040
+- The main JupyterLab interface: http://localhost:8888
+- The Spark cluster UI (master node): http://localhost:8080
+- The Spark cluster UI (worker node): http://localhost:8081 and http://localhost:8082
+- The Spark application web UI (active during a Spark Shell): http://localhost:4040
 
 ## Other Tools
 
