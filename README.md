@@ -74,6 +74,16 @@ To start a Spark SQL shell, run
 ./start-spark-sql.sh
 ```
 
+## PostgreSQL
+
+This setup also has a SQL database (PostgreSQL) for students to access from Apache Spark. The database comes preloaded with a smaller version of the classical fictitious "employees" database.
+
+To open a PSQL shell and manage the database manually, run the helper script
+
+```
+./psql.sh
+```
+
 ## How to upload data to the Spark cluster
 
 You have two options:
